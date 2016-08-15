@@ -1,7 +1,0 @@
-com\bean\film.class
-com\servlet\loginservlet.class
-com\Util\executeSql.class
-com\bean\staff.class
-com\bean\rental.class
-com\bean\store.class
-com\Util\connection.class
